@@ -38,7 +38,7 @@
 
 let
   pname = "mindustry";
-  version = "155.4";
+  version = "156";
   buildVersion = makeBuildVersion version;
 
   jdk = jdk17;
